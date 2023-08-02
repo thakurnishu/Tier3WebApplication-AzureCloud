@@ -1,8 +1,8 @@
 
-# Second Week of Challenge 
+# Three-Tier Architecture Scalable and Resilient Web Application Deployment with Azure Clous
 
 ## Overview
-Hi Everyone, In Second Week of Challenge I have Deployed Tier 3 Web Application in Azure Cloud using :
+Hi Everyone, I have Deployed Tier 3 Web Application in Azure Cloud using :
 -  __Virtual Machine Scale Sets__ [VMSS] for running `web` and `app` server.
 -  __LoadBalancer__ for internal traffic between web-server and app-server.
 -  __Azure Database for MySQL servers__ for MySQL Database.
