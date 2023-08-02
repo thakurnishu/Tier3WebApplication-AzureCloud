@@ -1,5 +1,5 @@
 
-# Three-Tier Architecture Scalable and Resilient Web Application Deployment with Azure Clous
+# Three-Tier Architecture Web Application Deployment with Azure Cloud
 
 ## Overview
 Hi Everyone, I have Deployed Tier 3 Web Application in Azure Cloud using :
