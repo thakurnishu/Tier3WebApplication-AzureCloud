@@ -13,7 +13,7 @@ Hi Everyone, I have Deployed Tier 3 Web Application in Azure Cloud using :
 ![Architectural](https://github.com/thakurnishu/Tier3WebApplication-AzureCloud/assets/90508814/53a53748-0dd5-40cc-9a29-4e56d62c7aa7)
 
 ## Detailed Step-by-Step Guide
-If you're interested in learning more about the setup and deployment process, I've written a blog post memo that outlines each step in detail. You can access the blog post [Here]() to gain insights into the configuration, automation, and best practices involved in building and deploying this architecture. 📚
+If you're interested in learning more about the setup and deployment process, I've written a blog post memo that outlines each step in detail. You can access the blog post [Here](https://nishantsingh.hashnode.dev/10weeksofcloudops-secondweek) to gain insights into the configuration, automation, and best practices involved in building and deploying this architecture. 📚
 
 ## Web Application Tech stack
 - React
